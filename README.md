@@ -29,7 +29,7 @@
   A team project featuring comprehensive student management tools for our university, built with PHP and the CodeIgniter Framework.
 
 * ☕ **[University Cafeteria Web App](https://github.com/MirunaVasile/your-repo-name)**
-  A full-stack web application developed during my Software Development Internship at SOFT BUILD, utilizing HTML, CSS, PHP, and JavaScript.
+  A full-stack web application developed utilizing HTML, CSS, PHP, and JavaScript.
 
 ---
 
