@@ -34,5 +34,6 @@
 ---
 
 ### Let's connect!
-* 💼 [My LinkedIn Profile](https://www.linkedin.com/in/miruna-maria-vasile-86748532b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* ✉️ Email: mirunavasile113@yahoo.com
+💼 [My LinkedIn Profile](https://www.linkedin.com/in/miruna-maria-vasile-86748532b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+✉️ Email: mirunavasile113@yahoo.com
