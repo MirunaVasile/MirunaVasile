@@ -19,7 +19,7 @@
 * 🧠 **[3D-Object-Reconstruction-AI](https://github.com/MirunaVasile/3D-Object-Reconstruction-AI)**
   An AI research project that generates 3D point clouds from single 2D images using a Point Set Generation Network (PSGN). Built with Python and PyTorch, successfully minimizing Chamfer Distance loss for geometric fidelity.
 
-* 🎮 **[Geography Learning App](https://github.com/MirunaVasile/ioc-learning-app)**
+* 🎮 **[Geography Learning App](https://github.com/MirunaVasile/educational-adventure-game)**
   An interactive 2D educational game for fourth-grade pupils built with Godot Engine and GDScript. Contributed as a Frontend Developer to build dynamic scene management, UI systems, and a JSON-driven custom challenge level.
 
 * 🧮 **[Runge-Kutta Precision Analyzer](https://github.com/MirunaVasile/your-repo-name)**
