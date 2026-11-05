@@ -19,6 +19,9 @@
 * 🧠 **[3D Object Reconstruction Images](https://github.com/MirunaVasile/3D-Object-Reconstruction-AI)**
   An AI research project that generates 3D point clouds from single 2D images using a Point Set Generation Network (PSGN). Built with Python and PyTorch, successfully minimizing Chamfer Distance loss for geometric fidelity.
 
+* ☕ **[University Cafeteria Web App](https://github.com/MirunaVasile/Cafeteria-Web-App)**
+  A full-stack web application developed utilizing HTML, CSS, PHP, and JavaScript.
+
 * 🎮 **[Geography Learning App for Children](https://github.com/MirunaVasile/educational-adventure-game)**
   An interactive 2D educational game for fourth-grade pupils built with Godot Engine and GDScript. Contributed as a Frontend Developer to build dynamic scene management, UI systems, and a JSON-driven custom challenge level.
 
@@ -28,8 +31,7 @@
 * 🎓 **[StudHack - Student Management App](https://github.com/MirunaVasile/your-repo-name)**
   A team project featuring comprehensive student management tools for our university, built with PHP and the CodeIgniter Framework.
 
-* ☕ **[University Cafeteria Web App](https://github.com/MirunaVasile/your-repo-name)**
-  A full-stack web application developed utilizing HTML, CSS, PHP, and JavaScript.
+
 
 ---
 
