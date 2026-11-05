@@ -22,11 +22,11 @@
 * ☕ **[University Cafeteria Web App](https://github.com/MirunaVasile/Cafeteria-Web-App)**
   A full-stack web application developed utilizing HTML, CSS, PHP, and JavaScript.
 
+* 🧮 **[Runge-Kutta Precision Analyzer](https://github.com/MirunaVasile/Runge-Kutta-Precision-Analyzer)**
+  A Python program developed for my Degree Thesis that analyzes the precision of the Runge-Kutta mathematical algorithm for approximating solutions to second-order differential equations.
+
 * 🎮 **[Geography Learning App for Children](https://github.com/MirunaVasile/educational-adventure-game)**
   An interactive 2D educational game for fourth-grade pupils built with Godot Engine and GDScript. Contributed as a Frontend Developer to build dynamic scene management, UI systems, and a JSON-driven custom challenge level.
-
-* 🧮 **[Runge-Kutta Precision Analyzer](https://github.com/MirunaVasile/your-repo-name)**
-  A Python program developed for my Degree Thesis that analyzes the precision of the Runge-Kutta mathematical algorithm for approximating solutions to second-order differential equations.
 
 * 🎓 **[StudHack - Student Management App](https://github.com/MirunaVasile/your-repo-name)**
   A team project featuring comprehensive student management tools for our university, built with PHP and the CodeIgniter Framework.
