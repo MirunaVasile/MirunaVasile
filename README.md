@@ -7,10 +7,10 @@
 ---
 
 ### Tech Stack & Tools
-* **Programming Languages:** Python, C++, Java, PHP, JavaScript, SQL
-* **Web & Frameworks:** HTML, CSS, CodeIgniter
-* **Core Concepts & AI:** Machine Learning, Point Clouds, Data Structures, Object-Oriented Programming (OOP)
-* **Tools:** Godot Engine, Git, PyTorch, Open3D
+* **Programming Languages:** Python, Java, JavaScript, TypeScript
+* **Web & Frameworks:** HTML, CSS, CodeIgniter, Next.JS, Vite + React
+* **Core Concepts & AI:** Machine Learning, LLM + RAG, Point Clouds, Data Structures, SQL and NOSQL Databases, Vector Stores, Object-Oriented Programming (OOP)
+* **Tools:** Godot Engine, Git, PyTorch, Open3D, LangGraph, LangChain, LLama
 
 ---
 
