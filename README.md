@@ -2,7 +2,7 @@
 
 🎓Master's Student in Cyber Security at Babeș-Bolyai University, Cluj-Napoca, Romania
 
-🖤Passionate about: Software Development, Artificial Intelligence, Web Projects and Leadership
+🖤Passionate about: Software Development, Artificial Intelligence, Web Projects
 
 ---
 
