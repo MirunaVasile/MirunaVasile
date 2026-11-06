@@ -31,6 +31,9 @@
 * 🎓 **[StudHack - Student Management App](https://github.com/MirunaVasile/your-repo-name)**
   A team project featuring comprehensive student management tools for our university, built with PHP and the CodeIgniter Framework.
 
+* 📚 **[Study Planner App](https://github.com/MirunaVasile/Study-Planner)**
+  Desktop app built with Python, Tkinter and SQLite that helps students manage courses, deadlines and study sessions, with progress charts and an admin panel.
+
 
 
 ---
